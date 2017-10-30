@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<generalsittings>
+  <balancebrand brand="bilanciai" model="ev2000" />
+  <balanceconverteradress port="4523" ip="localhost" />
+  <localnetworkport port="5326" />
+  <locale />
+  <color />
+  <dbDefaultSCheme />
+  <reportPath />
+  <selectedUnit />
+</generalsittings>
